@@ -1,4 +1,4 @@
-devsecops-gitlab-simple https://github.com/careerbytecode/devsecops-gitlab-simple.git
+devsecops-gitlab-simple "https://github.com/careerbytecode/devsecops-gitlab-simple.git"
 devsecops-gitlab-sonarcloud-sast-with-code-coverage https://github.com/careerbytecode/devsecops-gitlab-sonarcloud-sast-with-code-coverage.git
 devsecops-gitlab-sonarcloud-sast-no-code-coverage https://github.com/careerbytecode/devsecops-gitlab-sonarcloud-sast-no-code-coverage.git
 devsecops-gitlab-sast-dast-analyzers https://github.com/careerbytecode/devsecops-gitlab-sast-dast-analyzers.git
