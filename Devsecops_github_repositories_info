@@ -1,0 +1,6 @@
+devsecops-gitlab-simple https://github.com/careerbytecode/devsecops-gitlab-simple.git
+devsecops-gitlab-sonarcloud-sast-with-code-coverage https://github.com/careerbytecode/devsecops-gitlab-sonarcloud-sast-with-code-coverage.git
+devsecops-gitlab-sonarcloud-sast-no-code-coverage https://github.com/careerbytecode/devsecops-gitlab-sonarcloud-sast-no-code-coverage.git
+devsecops-gitlab-sast-dast-analyzers https://github.com/careerbytecode/devsecops-gitlab-sast-dast-analyzers.git
+devsecops-gitlab-dast-using-owasp_zap https://github.com/careerbytecode/devsecops-gitlab-dast-using-owasp_zap.git
+devsecops-gitlab-sca-using-snyk https://github.com/careerbytecode/devsecops-gitlab-sca-using-snyk.git
